@@ -1,12 +1,10 @@
 # **Shell Scripting** - Jason Cannon
 
-### **[Chapter 1]** Introduction
-### **[Chapter 2]** Shell Scripting, Succinctly
-### **[Chapter 3]** Exit Statuses and Return Code
-### **[Chapter 4]** Functions
-### **[Chapter 5]** Wildcards
+### **[Chapter 1]** Shell Scripting, Succinctly
+### **[Chapter 2]** Exit Statuses and Return Code
+### **[Chapter 3]** Functions
+### **[Chapter 4]** Wildcards
 
-[Chapter 1]: <Introduction>
-[Chapter 2]: <Shell Scripting, Succinctly>
-[Chapter 3]: <Exit Statuses and Return Codes>
+[Chapter 1]: <Shell Scripting, Succinctly>
+[Chapter 2]: <Exit Statuses and Return Codes>
 
